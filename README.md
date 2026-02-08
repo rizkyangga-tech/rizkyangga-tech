@@ -1,4 +1,6 @@
 ## Hi there 👋
+Hi 👋 I'm a Data Engineer  
+I build reliable data pipelines, ETL, ELT, analytics-ready datasets, and dashboards.
 
 <!--
 **rizkyangga-tech/rizkyangga-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
