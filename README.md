@@ -30,3 +30,6 @@ Here are some ideas to get you started:
   <!-- BI & Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
 </p>
+
+<img src="https://seeklogo.com/images/D/dbt-logo-500AB0BAA7-seeklogo.com.svg" width="40" />
+
