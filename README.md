@@ -35,4 +35,5 @@ Here are some ideas to get you started:
 
 <img src="https://seeklogo.com/images/D/dbt-logo-500AB0BAA7-seeklogo.com.svg" width="40" />
 
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white
+<img
+src="(https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white />
