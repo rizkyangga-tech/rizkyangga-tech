@@ -35,4 +35,5 @@ Here are some ideas to get you started:
 
 <img src="https://seeklogo.com/images/D/dbt-logo-500AB0BAA7-seeklogo.com.svg" width="40" />
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Snowflake_Logo.svg" width="40" />
+<!-- Snowflake -->
+<img src="https://cdn.simpleicons.org/snowflake/29B5E8" height="40"/>
