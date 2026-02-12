@@ -35,5 +35,4 @@ Here are some ideas to get you started:
 
 <img src="https://seeklogo.com/images/D/dbt-logo-500AB0BAA7-seeklogo.com.svg" width="40" />
 
-<img src="https://seeklogo.com/images/S/snowflake-logo-7E3E6F4B0A-seeklogo.com.png" width="40" />
-
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Snowflake_Logo.svg" width="40" />
