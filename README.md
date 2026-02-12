@@ -31,7 +31,8 @@ Here are some ideas to get you started:
 
   <!-- BI & Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
-<img src="https://img.shields.io/badge/dbt-F05A28?style=flat-square&logo=dbt&logoColor=white"/>
+<<img src="https://seeklogo.com/images/D/dbt-logo-500AB0BAA7-seeklogo.com.svg" height="40"/>
+
 <!-- Snowflake -->
 <img src="https://cdn.simpleicons.org/snowflake/29B5E8" height="40"/>
 </p>
