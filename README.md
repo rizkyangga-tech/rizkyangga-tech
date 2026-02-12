@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
   <!-- BI & Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/dbt.svg" height="40"/>
+<img <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbt/dbt-original.svg" height="40"/>
 <!-- Snowflake -->
 <img src="https://cdn.simpleicons.org/snowflake/29B5E8" height="40"/>
 </p>
